@@ -1,5 +1,5 @@
 {
-    "name": "myzero1/yii2-rbacp",
+    "name": "myzero1/yiirbacp",
     "description": "Simple captcha for yii2.Just add the module in config file and use the widget.",
     "type": "yii2-module",
     "license": "MIT ",
